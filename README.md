@@ -17,6 +17,7 @@ It is especially useful for **exploring AI models**, **GUI tool development**, a
 ```bash
 deepseek-chat-gui/
 │
+├── assets/                 # Screenshots
 ├── main.py                 # Main GUI application
 ├── LICENSE
 └── README.md               # Project documentation
